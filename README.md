@@ -1,4 +1,4 @@
 # PythonPrac
 Basic Py
 
-Nothing to read, everything is basic.
+Nothing to read here, 
