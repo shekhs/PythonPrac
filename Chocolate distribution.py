@@ -11,7 +11,7 @@ print(ch)
 #start writing your code here
 #dont forget to print the number of chocolates Sanjay can eat
 
-############GENERALISED#################
+############GENERALISED############
 '''
 Generalised Chocolate
 Description
