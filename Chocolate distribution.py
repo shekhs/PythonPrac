@@ -100,6 +100,6 @@ while((k*(wrap//w))!=0):
 
 print(ans)
 
-#start writing your code here
+
 
 
