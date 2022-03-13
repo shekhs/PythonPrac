@@ -11,7 +11,7 @@ A single line non-empty dictionary
 Sample output:
 cheapest_item name: cheapest_item_cost
 
-----------------------------------------------------------------------
+--------------------------------------------------------------------------
 Sample input:
 {'mobile1':10000, 'mobile2':11000, 'mobile3':13000, 'mobile4':9000, 'mobile5':15000, 'mobile6':16000, 'mobile7':17000, 'mobile8':18000, 'mobile9':19000}
 
