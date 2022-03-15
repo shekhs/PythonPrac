@@ -24,7 +24,7 @@ Sample Output:
 
 A similar question was asked in a Data Analyst test.
 
-'''
+''''''''
 
 import ast
 input_str = input()
