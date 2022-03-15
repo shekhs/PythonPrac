@@ -1,4 +1,4 @@
-'''......
+'''.
 Break the list
 
 Description
