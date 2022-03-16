@@ -13,6 +13,8 @@ Sample Output:
 1
 2
 3
+
+###
 '''
 
 n=int(input())
