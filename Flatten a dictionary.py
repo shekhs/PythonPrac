@@ -18,6 +18,7 @@ The input will have a nested dictionary.
 The output should have two lists. The first list will have keys and the second list should have values. Both lists should be sorted.
 
 Sample Input:
+###
 
 {'Fruit': 1, 'Vegetable': {'Cabbage': 2, 'Cauliflower': 3}, 'Spices': 4}
 
