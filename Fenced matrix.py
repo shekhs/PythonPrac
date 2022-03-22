@@ -1,7 +1,5 @@
 ###take input on your own here
 ###
-'''
-'''
 m,n = input().split(",")
 m=int(m)
 n=int(n)
