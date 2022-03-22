@@ -1,4 +1,4 @@
-###t
+###input
 ###
 m,n = input().split(",")
 m=int(m)
