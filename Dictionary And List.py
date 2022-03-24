@@ -1,5 +1,8 @@
 '''
 ###
+'''
+input data
+'''
 ###
 Sample input:
 {‘Mobile’: [‘Redmi’, ‘Samsung’, ‘Realme’], 
