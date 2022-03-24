@@ -1,5 +1,6 @@
 '''
 ###
+###
 Sample input:
 {‘Mobile’: [‘Redmi’, ‘Samsung’, ‘Realme’], 
 ‘Laptop’: [‘Dell’, ‘HP’],
