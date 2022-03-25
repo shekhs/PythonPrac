@@ -10,7 +10,7 @@ Print "True" if it is an Armstrong number and print "False" if it is not.
 ###
 Sample Input:
 153
-
+###
 Sample Output:
 True
 
