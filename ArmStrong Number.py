@@ -1,5 +1,7 @@
 '''
+
 ###
+input
 ###
 Armstrong number
 Description
