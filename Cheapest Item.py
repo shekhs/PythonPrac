@@ -1,7 +1,5 @@
 '''
-##2
-##3
-#
+
 Problem Statement
 
 Description
