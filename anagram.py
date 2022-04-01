@@ -7,7 +7,7 @@ night
 Sample output:
 True
 
-----------------------------------------------------------------------
+
 Sample input:
 upgrad
 found
