@@ -24,7 +24,7 @@ Note: in case of a tie, whichever item came first should be the output.
 import ast
 #take input here
 d = ast.literal_eval(input())
-
+#
 pr =[]
 both =[]
 for x in d:
