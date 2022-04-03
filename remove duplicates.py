@@ -3,7 +3,7 @@
 input given already
 Sample input:
 [8, 9, 2, 2, 3, 4, 5, 2]
-
+corresponding Output
 Sample output:
 [8, 9, 2, 3, 4, 5]
 
