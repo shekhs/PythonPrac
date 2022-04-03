@@ -1,5 +1,6 @@
 '''
 INT or STR
+should be integer or string
 '''
 
 in_str=input()
