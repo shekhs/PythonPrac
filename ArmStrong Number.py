@@ -1,6 +1,5 @@
 '''
-
-###
+##
 input
 ###
 Armstrong number
