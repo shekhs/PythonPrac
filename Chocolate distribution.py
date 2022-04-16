@@ -1,7 +1,6 @@
 '''
 Non generalised problem solution
-###
-####
+
 #@##
 m,c = [int(x) for x in input().split(",")]
 ch = m//c
