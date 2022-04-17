@@ -21,6 +21,7 @@ Sample input:
 Sample output:
 ['Pen_Gel', 'Pen_Ink', 'Pen_ball', 'Mobile_Android', 'Mobile_apple']
 '''
+#start writing your code here
 #input has been taken for you
 import ast
 input_str = input()
@@ -33,6 +34,6 @@ for x in input_dict:
 print(ans)
 
 
-#start writing your code here
+
 
 
