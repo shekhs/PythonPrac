@@ -17,20 +17,12 @@ The output should have two lists. The first list will have keys and the second l
 
 Sample Input:
 ###
-
 {'Fruit': 1, 'Vegetable': {'Cabbage': 2, 'Cauliflower': 3}, 'Spices': 4}
-
 Sample Output:
-
 ['Fruit', 'Spices', 'Vegetable_Cabbage', 'Vegetable_Cauliflower']
 [1, 2, 3, 4]
 
-
-
-
 You will find the inbuilt function isinstance() of python quite useful here. Read more about it here.
-
-
 
 '''
 
