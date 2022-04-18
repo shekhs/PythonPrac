@@ -18,7 +18,6 @@ Sample Input:
 Sample Output:
 ['Fruit', 'Spices', 'Vegetable_Cabbage', 'Vegetable_Cauliflower']
 [1, 2, 3, 4]
-
 You will find the inbuilt function isinstance() of python quite useful here. Read more about it here.
 
 '''
