@@ -16,7 +16,7 @@ Sample Input:
 ###
 Sample Output:
 True
-###
+
 '''
 n=int(input())
 s=str(n)
