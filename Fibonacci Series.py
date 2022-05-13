@@ -4,7 +4,7 @@ Q:
 area under fib series---must try
 Fibonacci Series
 Description
-
+###
 Compute and display Fibonacci series upto n terms where n is a positive integer entered by the user.
 You can go here to read about Fibonacci series.
 Sample Input:
@@ -17,7 +17,7 @@ Sample Output:
 3
 
 '''
-
+###
 n=int(input())
 #write your code here
 a = [0,1]
