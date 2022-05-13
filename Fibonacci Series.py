@@ -1,5 +1,5 @@
 '''
-###
+#####
 Q:
 area under fib series---must try
 Fibonacci Series
@@ -17,7 +17,7 @@ Sample Output:
 3
 
 '''
-###
+#####
 n=int(input())
 #write your code here
 a = [0,1]
