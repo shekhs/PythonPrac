@@ -9,7 +9,7 @@ A non-empty list of integers.
 
 Output:
 A single integer denoting the maximum distance between two same integers.
-
+####
 ----------------------------------------------------------------------
 Sample input:
 [1, 2, 3, 2, 5, 1, 2, 4, 6, 2, 7, 8, 6]
