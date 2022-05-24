@@ -14,14 +14,14 @@ Input Format:
 
 The input will contain a list of n integers representing the side length of each block's base in the row starting from the leftmost.
 
-
+###
 
 Sample Input:
-
+###
 [5 ,4, 2, 1, 4 ,5]
 
 Sample Output:
-
+###
 Possible
 '''
 
