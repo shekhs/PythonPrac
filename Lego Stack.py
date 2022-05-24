@@ -7,9 +7,9 @@ You are given a row of Lego Blocks consisting of n blocks. All the blocks given 
 From the row of Lego blocks, you can only pick up either the leftmost or rightmost block.
 
 Print "Possible" if it is possible to stack all n cubes this way or else print "Impossible".
-
-
-
+###
+###
+###
 Input Format:
 
 The input will contain a list of n integers representing the side length of each block's base in the row starting from the leftmost.
