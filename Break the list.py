@@ -14,7 +14,7 @@ For example,if you want to divide the list [1,2,3,4,5,6,7] into chunk size k=4, 
 The input will have two lines, the first line would have the list and the second line would have the value of k.(the code for taking input has already been written, you should not change that)
 The final output should have the list chunks in different lines..
 """
-###
+
 Sample Input:
 
 [1,2,3,4,5,6,7,8,9]
