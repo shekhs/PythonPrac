@@ -3,7 +3,7 @@ Problem :
 Flatten a dictionary
 Description
 Consider a nested dictionary as follows:
-
+###
 {'Fruit': 1, 'Vegetable': {'Cabbage': 2, 'Cauliflower': 3}, 'Spices': 4}
 ###
 Your task is to flatten a nested dictionary and join the nested keys with the "_" character. For the above dictionary, the flattened dictionary would be as follows:
@@ -19,7 +19,7 @@ Sample Output:
 ['Fruit', 'Spices', 'Vegetable_Cabbage', 'Vegetable_Cauliflower']
 [1, 2, 3, 4]
 You will find the inbuilt function isinstance() of python quite useful here. Read more about it here.
-
+###
 '''
 import ast,sys
 input_str = sys.stdin.read()
