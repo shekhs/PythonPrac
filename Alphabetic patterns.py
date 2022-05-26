@@ -3,7 +3,7 @@ Description
 //###
 //###
 Given a positive integer 'n' less than or equal to 26, you are required to print the below pattern 
-
+###
 Sample Input: 5 
 Sample Output : 
 --------e-------- 
@@ -15,7 +15,7 @@ e-d-c-b-a-b-c-d-e
 ----e-d-c-d-e---- 
 ------e-d-e------ 
 --------e-------- 
-
+###
 Sample Input  : 3 
 Sample Output : 
 ----c---- 
