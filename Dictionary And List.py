@@ -3,8 +3,8 @@
 '''
 input data
 '''
-###
-###
+######
+######
 Sample input:
 {‘Mobile’: [‘Redmi’, ‘Samsung’, ‘Realme’], 
 ‘Laptop’: [‘Dell’, ‘HP’],
@@ -13,7 +13,7 @@ Sample input:
 Sample output:
 [‘Mobile_Redmi’, ‘Mobile_Samsung’, ‘Mobile_Realme’, ‘Laptop_Dell’, ‘Laptop_HP’, ‘TV_Videocon’, ‘TV_Sony’]
 
-
+###
 Sample input:
 { 'Pen': ['Gel', 'Ink', 'ball'],
 'Mobile': ['Android', 'apple'] }
@@ -21,7 +21,7 @@ Sample input:
 Sample output:
 ['Pen_Gel', 'Pen_Ink', 'Pen_ball', 'Mobile_Android', 'Mobile_apple']
 '''
-
+###
 #input has been taken for you
 import ast
 input_str = input()
