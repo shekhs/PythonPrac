@@ -6,7 +6,7 @@ You will be given a dictionary with keys as items and values as their prices. Yo
 ###
 #
 ------------------------------------------------------------------------
-########
+
 ###
 ###
 Sample input:
