@@ -1,6 +1,6 @@
 '''
 Find Extra Character
-###
+#####
 Description
 Given two strings, one of the strings will contain an extra character. Find the extra character. The number of all the other characters in both the strings will be the same. Check the sample input/output for more clarification.
 
@@ -13,7 +13,7 @@ Two strings on two separate lines.
 Output:
 One Character which is extra in one of the strings
 ----------------------------------------------------------------------
-###
+#####
 Sample input:
 abcd
 cedab
@@ -39,7 +39,7 @@ for x in d:
 print(ex)
         
 
-
+##
 
 #write code to find the extra character here
 
