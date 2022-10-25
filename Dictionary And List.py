@@ -8,11 +8,11 @@ Sample input:
 {‘Mobile’: [‘Redmi’, ‘Samsung’, ‘Realme’], 
 ‘Laptop’: [‘Dell’, ‘HP’],
 ‘TV’: [‘Videocon’, ‘Sony’] }
-######
+
 Sample output:
 [‘Mobile_Redmi’, ‘Mobile_Samsung’, ‘Mobile_Realme’, ‘Laptop_Dell’, ‘Laptop_HP’, ‘TV_Videocon’, ‘TV_Sony’]
 
-######
+
 Sample input:
 { 'Pen': ['Gel', 'Ink', 'ball'],
 'Mobile': ['Android', 'apple'] }
