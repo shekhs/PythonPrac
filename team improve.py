@@ -3,7 +3,7 @@ import ast
 team = ast.literal_eval(input())
 appli = ast.literal_eval(input())
 
-
+####
 #write your code here
 def team_improve(team,a):
     av = sum(team)/len(team)
