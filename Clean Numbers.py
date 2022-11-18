@@ -7,7 +7,7 @@ While extracting data from different sources, often numeric values come in strin
 ----------------------------------------------------------------------
 Input:
 One line input of string, it will consist of only spaces commas and digits
-
+###
 Output:
 Cleaned number
 
