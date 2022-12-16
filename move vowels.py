@@ -5,7 +5,7 @@ programming
 
 Sample output:
 oaiprgrmmng
-
+#####
 ----------------------------------------------------------------------
 Sample input:
 You love Python!
