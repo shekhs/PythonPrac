@@ -3,7 +3,7 @@ A weird sum
 Description
 Write a program that computes the value of n+nn+nnn+nnnn+... nn...n ntimes with a given number as the value of n.
 
-
+###
 
 For example, if n=3 , then you have to find the value of 3+33+333
 
