@@ -27,7 +27,7 @@ Please note that this question was asked in a Data Scientist interview.
 
 '''
 ###
-
+##
 n = int(input())
 stt = "abcdefghijklmnopqrstuvwxyz"
 lines = (n-1)*2 + 1
