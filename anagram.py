@@ -3,7 +3,7 @@
 Sample input:
 thing
 night
-##
+####
 Sample output:
 True
 
