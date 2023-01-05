@@ -56,7 +56,7 @@ Sanjay has 15 rupees, buys 7 chocolates for 2 rupees each.
 
 Sanjay now has 7 wrappers, exchanges 6 of them for 2 more chocolates.
 
-Sanjay now has 3 wrappers and exchanges them for 1 more chocolate making a total of 10 chocolates
+Sanjay  now has 3 wrappers and exchanges them for 1 more chocolate making a total of 10 chocolates
 
 
 
