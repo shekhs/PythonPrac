@@ -16,7 +16,7 @@ Sample Output:
 ###
 [1, 5, 10, 10, 5, 1]
 
-
+##
 '''
 
 #input has been taken for you
