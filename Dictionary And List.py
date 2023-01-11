@@ -31,7 +31,6 @@ for x in input_dict:
         ans.append(x+"_"+y)
 print(ans)
 
-###
 #start writing your code here
 
 
