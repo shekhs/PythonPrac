@@ -19,7 +19,7 @@ Sample Input:
 [5 ,4, 2, 1, 4 ,5]
 
 Sample Output:
-###
+#####
 Possible
 '''
 
