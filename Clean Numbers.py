@@ -12,7 +12,7 @@ One line input of string, it will consist of only spaces commas and digits
 ###
 Output:
 Cleaned number
-
+###
 ----------------------------------------------------------------------
 Sample input:
          3,213
