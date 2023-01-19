@@ -3,7 +3,7 @@ Description
 Given a list of numbers, find the second largest number in the list.
 
 Note: There might be repeated numbers in the list. If there is only one number present in the list, return 'not present'.
-###
+
 Examples:
 Input 1:
 [7, 2, 0, 9, -1, 8]
