@@ -2,10 +2,9 @@
 ###
 Problem - BREAK THE LIST
 Description
-###
 """
 """
-####
+
 Write a Python program to divide a given list into chunks of size k.
 ###
 The number of elements in the list need not to be divisible by k.
