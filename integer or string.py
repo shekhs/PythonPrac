@@ -4,7 +4,7 @@ should be integer or string
 '''
 
 in_str=input()
-
+##
 #find out if in_str is integer or not
 nums = "0123456789 "
 s="INT"
