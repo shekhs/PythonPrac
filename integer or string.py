@@ -15,3 +15,4 @@ for x in in_str:
         s="STR"
         break
 print(s)
+###
