@@ -7,7 +7,7 @@ You will be given a list of repeated elements. You have to find the maximum dist
 ----------------------------------------------------------------------
 Input:
 A non-empty list of integers.
-
+##
 Output:
 A single integer denoting the maximum distance between two same integers.
 #########
