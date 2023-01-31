@@ -3,11 +3,9 @@
 Maximum Distance
 Description
 You will be given a list of repeated elements. You have to find the maximum distance between two same elements. The answer will be zero if there are no repeated elements.
-##
 ----------------------------------------------------------------------
 Input:
 A non-empty list of integers.
-##
 Output:
 A single integer denoting the maximum distance between two same integers.
 #########
