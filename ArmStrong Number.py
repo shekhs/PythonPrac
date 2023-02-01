@@ -10,7 +10,7 @@ For example:
 Write Python code to determine whether an entered three digit number is an Armstrong number or not. 
 Assume that the number entered will strictly be a three digit number.
 Print "True" if it is an Armstrong number and print "False" if it is not.
-#
+###
 Sample Input:
 153
 ###
