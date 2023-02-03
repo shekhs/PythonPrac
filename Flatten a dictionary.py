@@ -20,7 +20,7 @@ Sample Output:
 [1, 2, 3, 4]
 You will find the inbuilt function isinstance() of python quite useful here. Read more about it here.
 ###
-####
+
 '''
 import ast,sys
 input_str = sys.stdin.read()
