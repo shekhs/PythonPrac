@@ -5,7 +5,8 @@ Description
 Given two strings, one of the strings will contain an extra character. Find the extra character. The number of all the other characters in both the strings will be the same. Check the sample input/output for more clarification.
 
 The code will be case sensitive.
-#####
+###
+#
 ----------------------------------------------------------------------
 Input:
 Two strings on two separate lines. 
