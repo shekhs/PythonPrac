@@ -2,7 +2,7 @@
 Sum of Primes
 Description
 Write python code to find the sum of prime numbers from 2 to n where n is a positive integer entered by the user.
-
+####
 Note: n can be non-prime or prime. You have to find sum of primes till n and not sum of n prime numbers. i.e. for input 10, output should be 17.
 
 Hint: You can try using lambda functions and comprehensions to reduce the lines of code you have to write.
