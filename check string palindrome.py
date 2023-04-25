@@ -1,4 +1,5 @@
 s="HAnnah"
+###
 s=s.lower()
 pal = 1
 l=len(s)
