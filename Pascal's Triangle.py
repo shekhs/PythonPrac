@@ -4,7 +4,7 @@ Description
 A pascal's triangle is a very interesting mathematical concept.
 Each number here is a sum of the two numbers directly above it.
 Following is an 8 level Pascal's triangle:
-###
+######
 You can read about Pascal's triangle here.
 Your task is to print an nth level of Pascal's triangle.
 The input will contain an integer n.
