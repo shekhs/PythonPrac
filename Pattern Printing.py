@@ -4,7 +4,7 @@ Description
 Given a positive integer n. Print the pattern as shown in sample outputs.
 ###
 A code has already been provided. You have to understand the logic of the code on your own and try and make changes to the code so that it gives correct output.
-
+###
 
 Input: A positive integer n
 
