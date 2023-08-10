@@ -1,5 +1,6 @@
 '''
 Sum of Primes
+#
 Description
 Write python code to find the sum of prime numbers from 2 to n where n is a positive integer entered by the user.
 
