@@ -2,7 +2,7 @@
 PS:##
 ##
 Lego Stack
-
+##
 Description
 You are given a row of Lego Blocks consisting of n blocks. All the blocks given have a square base whose side length is known. You need to stack the blocks over each other and create a vertical tower. Block-1 can go over Block-2 only if sideLength(Block-2)=>sideLength(Block-1).
 
