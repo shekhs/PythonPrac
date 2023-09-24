@@ -1,7 +1,6 @@
 '''
 
-Q:####
-##
+Q
 area under fib series---must try
 Fibonacci Series
 Description
