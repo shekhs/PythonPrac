@@ -1,6 +1,6 @@
 #take input of the number here
 n=int(input())
-######
+
 rev=0
 #write code to reverse the number here
 while(n>0):
