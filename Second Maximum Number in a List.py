@@ -21,7 +21,7 @@ Output 2:
 not present
 
 '''
-
+##
 # Read the input list
 import ast
 input_str = input()
