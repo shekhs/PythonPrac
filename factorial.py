@@ -1,6 +1,6 @@
 #take the input here
 number=int(input())
-
+##
 #the function definition starts here
 def factorial(n):
     #write the funtion here that finds and RETURNS factorial of next
