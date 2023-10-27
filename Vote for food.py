@@ -9,7 +9,7 @@ Sample Input:
 ["pasta","pasta","pasta","pasta","pasta","paratha","paratha","paratha"]
 Sample Output:
 pasta
-##
+
 This question was asked in a Data Analyst interview.
 '''
 
