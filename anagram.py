@@ -15,7 +15,7 @@ Sample output:
 False
 '''
 
-#take input here
+#take input here.
 s1=[x for x in input()]
 s2=[x for x in input()]
 s1=sorted(s1)
