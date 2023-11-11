@@ -3,7 +3,7 @@ import ast
 input_str1 = input()
 input_list1 = ast.literal_eval(input_str1)
 events = input_list1
-
+##
 wedding = int(input())
 
 #start writing from here
