@@ -3,7 +3,7 @@
 #
 #Sample output:
 #python in coding love I
-
+#
 sentence=input()
 s = sentence.split(" ")
 op =""
