@@ -1,6 +1,6 @@
 #Sample input:
 #I love coding in python
-
+#
 #Sample output:
 #python in coding love I
 
