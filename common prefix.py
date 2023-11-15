@@ -4,11 +4,8 @@
 Sample input:
 
 upgradData
-
 upGradScience
-
 Sample output:
-
 upgrad
 '''
 
