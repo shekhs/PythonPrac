@@ -2,7 +2,7 @@
 INT or STR
 should be integer or string
 '''
-
+33
 in_str=input()
 
 #find out if in_str is integer or not
