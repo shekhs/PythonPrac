@@ -9,7 +9,7 @@ You can read about Pascal's triangle here.
 Your task is to print an nth level of Pascal's triangle.
 The input will contain an integer n.
 The output will contain 1 line of the list of numbers representing the nth row of Pascal's triangle.
-
+##
 Sample Input:
 6
 Sample Output:
