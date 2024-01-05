@@ -7,7 +7,7 @@ A code has already been provided. You have to understand the logic of the code o
 ###
 
 Input: A positive integer n
-
+##
 1<= n <=9
 
 
