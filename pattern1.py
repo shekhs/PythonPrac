@@ -1,6 +1,6 @@
 #please take input here
 n = int(input())
-
+#
 
 #start writing your code here
 for x in  range(n):
