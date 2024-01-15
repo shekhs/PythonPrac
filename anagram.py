@@ -1,5 +1,5 @@
 '''
-
+#
 Sample input:
 thing
 night
