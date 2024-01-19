@@ -1,5 +1,5 @@
 '''
-Vote for Food
+Vote for Food##
 Description
 Your team is going for camping and you are taking a vote to decide what food to pack for dinner.
 Everyone gets a vote and the food item that gets at least one more than half of the votes wins. None of the items wins if nothing gets at least one more than half votes. Assume that every person gets only one vote.
