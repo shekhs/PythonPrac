@@ -1,5 +1,5 @@
 '''
-#
+
 Pascal's Triangle
 Description
 A pascal's triangle is a very interesting mathematical concept.
