@@ -1,5 +1,6 @@
 '''
 A weird sum
+#
 Description
 Write a program that computes the value of n+nn+nnn+nnnn+... nn...n ntimes with a given number as the value of n.
 
