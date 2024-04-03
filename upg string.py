@@ -3,7 +3,7 @@ Sample input:
 ##
 $yrr$ssrsr
 
-
+#
 
 Sample output:
 
