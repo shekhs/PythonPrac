@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------
 Sample input:
 caloRie consuMed
-###
+##
 Sample output:
 Calorie_Consumed
 
