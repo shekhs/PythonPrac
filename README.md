@@ -1,4 +1,4 @@
 ## PythonPrac
 Basic Py.
 
-Nothing to read here xoxo...
+Nothing to read here xoxo.
